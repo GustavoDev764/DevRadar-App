@@ -8,6 +8,10 @@
 
 <br>
 
+<p align="center">
+  <img alt="Frontend" src="./mobile-desktop.png" width="100%">
+</p>
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
