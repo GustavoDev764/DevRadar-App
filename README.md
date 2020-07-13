@@ -2,10 +2,6 @@
     <img alt="DevRadar" title="#delicinha" src="./devradar.png" width="250px" />
 </h1>
 
-<h4 align="center">
-  🚀 Semana OmniStack 10.0
-</h4>
-
 <br>
 
 <p align="center">
@@ -28,4 +24,3 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
